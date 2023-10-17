@@ -1,74 +1,116 @@
 {
   "customApps": [
     {
-      "name": "Draft Apex Devops Console",
+      "internalName": "DRAFT_APEX_DEVOPS_CONSOLE",
       "author": "Sydney Nurse",
       "version": "23.1.0",
-      "icon": "https://raw.githubusercontent.com/oracle/apex/23.1/docs/img/apps/app-sample-restful-services.svg",
+      "icon": null,
       "url": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/draft-apex-devops-console/",
       "source": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/draft-apex-devops-console/draft-apex-devops-console.sql",
       "zip": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/draft-apex-devops-console/draft-apex-devops-console.zip",
-      "license": ""
+      "license": null,
+      "li18n": {
+        "en": {
+          "name": "Draft Apex Devops Console",
+          "description": null
+        }
+      }
     },
     {
-      "name": "Draft Apex Devops Dashboard",
+      "internalName": "DRAFT_APEX_DEVOPS_DASHBOARD",
       "author": "Sydney Nurse",
       "version": "23.1.0",
-      "icon": "https://raw.githubusercontent.com/oracle/apex/23.1/docs/img/apps/app-sample-restful-services.svg",
+      "icon": null,
       "url": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/draft-apex-devops-dashboard/",
       "source": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/draft-apex-devops-dashboard/draft-apex-devops-dashboard.sql",
       "zip": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/draft-apex-devops-dashboard/draft-apex-devops-dashboard.zip",
-      "license": ""
+      "license": null,
+      "li18n": {
+        "en": {
+          "name": "Draft Apex Devops Dashboard",
+          "description": null
+        }
+      }
     },
     {
-      "name": "Apex Presentation",
+      "internalName": "APEX_PRESENTATION",
       "author": "Sydney Nurse",
       "version": "23.1.0",
-      "icon": "https://raw.githubusercontent.com/oracle/apex/23.1/docs/img/apps/app-sample-restful-services.svg",
+      "icon": null,
       "url": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/apex-presentation/",
       "source": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/apex-presentation/apex-presentation.sql",
       "zip": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/apex-presentation/apex-presentation.zip",
-      "license": ""
+      "license": null,
+      "li18n": {
+        "en": {
+          "name": "Apex Presentation",
+          "description": null
+        }
+      }
     },
     {
-      "name": "Dev_Ggops",
+      "internalName": "DEV_GGOPS",
       "author": "Sydney Nurse",
       "version": "23.1.0",
-      "icon": "https://raw.githubusercontent.com/oracle/apex/23.1/docs/img/apps/app-sample-restful-services.svg",
+      "icon": null,
       "url": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/dev_ggops/",
       "source": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/dev_ggops/dev_ggops.sql",
       "zip": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/dev_ggops/dev_ggops.zip",
-      "license": ""
+      "license": null,
+      "li18n": {
+        "en": {
+          "name": "Dev_Ggops",
+          "description": null
+        }
+      }
     },
     {
-      "name": "Hackathon Participants",
+      "internalName": "HACKATHON_PARTICIPANTS",
       "author": "Sydney Nurse",
       "version": "23.1.0",
-      "icon": "https://raw.githubusercontent.com/oracle/apex/23.1/docs/img/apps/app-sample-restful-services.svg",
+      "icon": null,
       "url": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/hackathon-participants/",
       "source": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/hackathon-participants/hackathon-participants.sql",
       "zip": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/hackathon-participants/hackathon-participants.zip",
-      "license": ""
+      "license": null,
+      "li18n": {
+        "en": {
+          "name": "Hackathon Participants",
+          "description": null
+        }
+      }
     },
     {
-      "name": "Draft Apex Devops Agent",
+      "internalName": "DRAFT_APEX_DEVOPS_AGENT",
       "author": "Sydney Nurse",
       "version": "23.1.0",
-      "icon": "https://raw.githubusercontent.com/oracle/apex/23.1/docs/img/apps/app-sample-restful-services.svg",
+      "icon": null,
       "url": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/draft-apex-devops-agent/",
       "source": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/draft-apex-devops-agent/draft-apex-devops-agent.sql",
       "zip": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/draft-apex-devops-agent/draft-apex-devops-agent.zip",
-      "license": ""
+      "license": null,
+      "li18n": {
+        "en": {
+          "name": "Draft Apex Devops Agent",
+          "description": null
+        }
+      }
     },
     {
-      "name": "Apex Social Media",
+      "internalName": "APEX_SOCIAL_MEDIA",
       "author": "Sydney Nurse",
       "version": "23.1.0",
-      "icon": "https://raw.githubusercontent.com/oracle/apex/23.1/docs/img/apps/app-sample-restful-services.svg",
+      "icon": null,
       "url": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/apex-social-media/",
       "source": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/apex-social-media/apex-social-media.sql",
       "zip": "https://dev.azure.com/sydneynurse/APEXREPOMGT/_apis/git/repositories/32089931-b5a0-4743-b43b-3c1232a8d758/items//appsampls/gallery/apex-social-media/apex-social-media.zip",
-      "license": ""
+      "license": null,
+      "li18n": {
+        "en": {
+          "name": "Apex Social Media",
+          "description": null
+        }
+      }
     }
   ]
 }
